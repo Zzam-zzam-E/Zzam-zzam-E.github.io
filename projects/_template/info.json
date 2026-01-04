@@ -1,0 +1,10 @@
+{
+    "title": "프로젝트 제목",
+    "description": "프로젝트에 대한 간단한 설명을 작성합니다.",
+    "tags": ["태그1", "태그2", "태그3"],
+    "thumbnail": "thumbnail.png",
+    "github": "https://github.com/yourusername/project-name",
+    "demo": "https://yourusername.github.io/project-name",
+    "date": "2025-01"
+}
+
